@@ -1,0 +1,45 @@
+*{
+    background-color: orchid;
+}
+
+.head{
+    color: darkblue;
+}
+
+#bglime, h2 span{
+    background-color: lime;
+}
+
+h2 span{
+    color: red;
+    /* background-color: lime; */
+}
+
+p{
+    color: white;
+}
+
+#para{
+    color: green;
+}
+
+p span{
+    color: black;
+    font-size: 30px;
+}
+
+span li a{
+    background-color: yellow;
+}
+
+li > a{
+    background-color: blue;
+}
+
+section > li{
+    color: blue;
+}
+
+article > li{
+    color: red;
+}
